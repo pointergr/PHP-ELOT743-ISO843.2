@@ -2,7 +2,6 @@
     "name": "pointergr/php-elot743-iso843.2",
     "description": "A PHP library for ELOT 743 and ISO 843.2",
     "type": "library",
-    "license": "MIT",
     "authors": [
         {
             "name": "Your Name",
